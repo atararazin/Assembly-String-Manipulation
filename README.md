@@ -25,5 +25,8 @@ The first char is the one to be replaced, the second the one to replace with.
 
 ### Option 52
 
+### Option 53
+
+### Option 54
 
 For full examples take for the whole program, head over to Ex3.pdf pages 7-8
