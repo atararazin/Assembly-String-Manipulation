@@ -1,7 +1,9 @@
 # Assembly-String-Manipulation
 
 ## What This Program Does
-This project is my assembly project in the course Computer Structures. The program does some string manipulations.
+This project is my assembly project in the course Computer Structures. The program does some string manipulations. More details
+to follow.
+We create a structure that we called a "pstring". A pstring is a struct composed of an int and a string. The int is the size, followed by a string of that size. For example: "5hello", the 5 representing the size of the string "hello".
 
 ## How To Run It
 First, this program will only run in Linux! 
@@ -10,3 +12,12 @@ Now that your on your Linux:
 produce the object files and an executable file called a.out. To run it go to step 2.
 
 2. Type into the terminal "./a.out". And the program is running!
+
+## How To Use This Program
+First, we get the two pstrings. Then we have 5 options of string manipulations:
+### Option 50
+Prints the two pstrings and their legnths.
+
+### Option 51
+Replaces a char in each pstring with a given char.
+After inputting both
