@@ -19,5 +19,11 @@ First, we get the two pstrings. Then we have 5 options of string manipulations:
 Prints the two pstrings and their legnths.
 
 ### Option 51
-Replaces a char in each pstring with a given char.
-After inputting both
+Replaces a specific char in each pstring with a given char from user.
+After inputting both pstrings, type another line of the following format :"%c %c\n" (char space char newline).
+The first char is the one to be replaced, the second the one to replace with.
+
+### Option 52
+
+
+For full examples take for the whole program, head over to Ex3.pdf pages 7-8
